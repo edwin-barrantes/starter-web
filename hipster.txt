@@ -1,1 +1,3 @@
 Para pruebas de comparación de versiones.
+
+Cambios hechos y puestos en fase de commit.
