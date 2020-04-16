@@ -1,3 +1,7 @@
 Para pruebas de comparación de versiones.
 
 Cambios hechos y puestos en fase de commit.
+
+Cambios hechos para fase de stage.
+
+Cambios hechos en fase de working directory.
